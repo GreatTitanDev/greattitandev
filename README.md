@@ -36,7 +36,7 @@ Right now I'm deep into data science, web tech, and security tools.
 - **🕹️ [Ninja-Game-python](https://github.com/greattitandev/Ninja-Game-python)** — Simple & addictive 2D endless ninja runner built with Pygame  
 - **🛡️ [NeuralSheild-AI-Spam-Detectiom](https://github.com/greattitandev/NeuralSheild-AI-Spam-Detectiom)** — AI spam detector protecting Email, SMS, Telegram & Instagram  
 - **📊 [Student_performence_prediction](https://github.com/greattitandev/Student_performence_prediction)** — Predicting student academic performance with Machine Learning  
-- **🐝 [BumbleBee-RAT](https://github.com/greattitandev/BumbleBee-RAT)** — Ethical hacking / security research tool (use responsibly!)
+- **🐝 [BumbleBee] Ethical hacking / security research tool (use responsibly!)
 
 **[See all repositories →](https://github.com/greattitandev)**
 
