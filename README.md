@@ -1,92 +1,139 @@
-<div align="center">
-  
-  <h1>👋 Hi there! I'm <strong>Nimona Engida</strong></h1>
-  <h2>aka <strong>Titan</strong> </h2>
+# Hi, I'm Titan 👋
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00E6FF&center=true&vCenter=true&width=500&lines=Self-taught+Programmer;Python+%26+ML+Enthusiast;Building+cool+stuff+every+day;Always+learning%2C+never+done" alt="Typing SVG" />
+### Full-Stack Developer | Python Programmer | Software Engineering Enthusiast
 
-  <p><em>Turning curiosity into code — one project at a time 🌍</em></p>
+I’m a software developer focused on building practical, scalable, and user-oriented applications. My primary programming experience is with **Python**, with a growing focus on **full-stack JavaScript development, backend engineering, APIs, and modern web technologies**.
 
-</div>
+Currently, I’m expanding my full-stack development expertise through the **IBM Full Stack JavaScript Developer Professional Certificate**, while continuing to build projects, strengthen my software engineering fundamentals, and explore new areas of technology.
 
 ---
 
-### 🛠️ My Tech Stack
+## 🛠️ Technologies & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,javascript,linux,git,numpy,matplotlib,scikitlearn,bootstrap&perline=8" height="55" alt="Tech Icons"/>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=vscode,github,sqlite,pygame" height="55" alt="Extra Tools"/>
-</div>
+### Languages
 
----
+* Python
+* JavaScript
+* HTML
+* CSS
+* SQL
 
-### About Me 🌱
+### Full-Stack Development
 
-I'm a **self-taught programmer** from Ethiopia, passionate about building things that actually help people.  
-I love clean Python code, fun games, desktop apps with Tkinter/TTKbootstrap, and experimenting with machine learning.
+* React
+* Node.js
+* Express.js
+* REST APIs
+* Responsive Web Development
+* Frontend & Backend Architecture
 
-Right now I'm deep into data science, web tech, and security tools.  
-**The journey never ends** — and I wouldn't have it any other way.
+### Databases
 
----
+* MongoDB
+* PostgreSQL
+* SQL
 
-### 🔥 Featured Projects
+### Development Tools
 
-- **🕹️ [Ninja-Game-python](https://github.com/greattitandev/Ninja-Game-python)** — Simple & addictive 2D endless ninja runner built with Pygame  
-- **🛡️ [NeuralSheild-AI-Spam-Detectiom](https://github.com/greattitandev/NeuralSheild-AI-Spam-Detectiom)** — AI spam detector protecting Email, SMS, Telegram & Instagram  
-- **📊 [Student_performence_prediction](https://github.com/greattitandev/Student_performence_prediction)** — Predicting student academic performance with Machine Learning  
-- **🐝 [BumbleBee] Ethical hacking / security research tool (use responsibly!)
+* Git
+* GitHub
+* Docker
+* Linux
+* Bash
+* npm
 
-**[See all repositories →](https://github.com/greattitandev)**
+### Python Development
 
----
+* Flask
+* Django
+* NumPy
+* Pandas
+* Scikit-learn
 
-### 📊 GitHub Stats
+### Currently Expanding Into
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=greattitandev&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greattitandev&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
+Through my IBM Full Stack JavaScript Developer training and ongoing projects:
 
----
-
-<div align="center">
-  <em>Still learning. Still building. Still growing.</em><br>
-  <strong>This journey has no finish line — and I love it that way </strong>
-</div>
-
-<div align="center">
-  Thanks for visiting! Let's connect and build something awesome together!
-</div>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat&logo=python&logoColor=white" alt="Tkinter"/> 
-  <img src="https://img.shields.io/badge/TTKbootstrap-7952b3?style=flat&logoColor=white" alt="TTKbootstrap"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="sklearn"/>
-</p>
-
-I'm constantly adding new tools to the list—learning never stops! 
-
-### Featured Projects 🔍
-Check out some of my work:  
-- 🕹️ **Ninja-Game-python** — Fun 2D endless runner built with Pygame  
-- 🛡️ **NeuralSheild-AI-Spam-Detection** — AI-powered spam detector (Email/SMS/Telegram/Instagram) using ML  
-- 📊 **Student_performance_prediction** — Predicting academic success with machine learning  
-- 🐝 **BumbleBee-RAT** — Ethical security tool for researchers (used responsibly!)  
-
-More projects → [github.com/greattitandev](https://github.com/greattitandev)
+* Advanced JavaScript
+* React
+* Node.js & Express
+* Microservices
+* Cloud-native development
+* Containers & Docker
+* Kubernetes
+* DevOps fundamentals
+* CI/CD
+* Application security
+* Full-stack application architecture
 
 ---
 
-<p align="center">
-  <em>"The only true wisdom is in knowing you know nothing." — Socrates</em><br>
-  <strong>Still very much a work in progress… just like my code 😅</strong>
-</p>
+## 🚀 What I Build
 
-<p align="center">
-  Let's connect and build something cool together! &nbsp;
-</p>
+I enjoy working on projects that combine software engineering with practical problem-solving, including:
+
+* Full-stack web applications
+* REST APIs
+* Automation tools
+* Developer utilities
+* Machine learning applications
+* Security-focused projects
+* Data-driven applications
+* Experimental and open-source projects
+
+You can find my projects and experiments throughout my repositories.
+
+---
+
+## 📚 Current Focus
+
+**Full-Stack JavaScript Development**
+
+I'm currently working through the **IBM Full Stack JavaScript Developer Professional Certificate**, strengthening my knowledge across the modern web development ecosystem.
+
+At the same time, I'm practicing:
+
+* Data Structures & Algorithms
+* Software Engineering
+* Git & GitHub
+* Backend development
+* API design
+* Database systems
+* Problem solving
+* Building and deploying real applications
+
+---
+
+## 🎯 Development Philosophy
+
+> **Build. Learn. Improve. Repeat.**
+
+I believe strong developers are built through a combination of solid fundamentals, continuous learning, and actually building things.
+
+My focus is not simply collecting technologies, but understanding how they work together to create reliable and useful software.
+
+---
+
+## 📊 GitHub
+
+I use GitHub to document projects, experiment with new technologies, practice software engineering concepts, and contribute to the developer community.
+
+**Always building something.**
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, engineers, founders, and technology communities to collaborate, learn, and build interesting projects.
+
+[LinkedIn](#) • [X](#) • [GitHub](#)
+
+---
+
+### ⚡ Currently Learning
+
+`JavaScript` `React` `Node.js` `Express.js` `MongoDB` `Docker` `Kubernetes` `Cloud` `DevOps`
+
+### 💻 Primary Stack
+
+`Python` `Flask` `Django` `JavaScript` `Git` `GitHub` `SQL`
