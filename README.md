@@ -1,4 +1,4 @@
-# Hi, I'm Titan 👋
+# Hi, I'm Nimona 👋
 
 ### Full-Stack Developer | Python Programmer | Software Engineering Enthusiast
 
@@ -8,7 +8,7 @@ Currently, I’m expanding my full-stack development expertise through the **IBM
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Languages
 
@@ -68,7 +68,7 @@ Through my IBM Full Stack JavaScript Developer training and ongoing projects:
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 I enjoy working on projects that combine software engineering with practical problem-solving, including:
 
@@ -85,7 +85,7 @@ You can find my projects and experiments throughout my repositories.
 
 ---
 
-## 📚 Current Focus
+## Current Focus
 
 **Full-Stack JavaScript Development**
 
@@ -104,7 +104,7 @@ At the same time, I'm practicing:
 
 ---
 
-## 🎯 Development Philosophy
+## Development Philosophy
 
 > **Build. Learn. Improve. Repeat.**
 
@@ -114,7 +114,7 @@ My focus is not simply collecting technologies, but understanding how they work 
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 I use GitHub to document projects, experiment with new technologies, practice software engineering concepts, and contribute to the developer community.
 
@@ -122,15 +122,15 @@ I use GitHub to document projects, experiment with new technologies, practice so
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm interested in connecting with developers, engineers, founders, and technology communities to collaborate, learn, and build interesting projects.
 
-[LinkedIn](#) • [X](#) • [GitHub](#)
+[LinkedIn](www.linkedin.com/in/nimona-engida-79a000378) • [Telegram](t.me/GreatTitan) • [GitHub](https://github.com/greattitandev)
 
 ---
 
-### ⚡ Currently Learning
+### Currently Learning
 
 `JavaScript` `React` `Node.js` `Express.js` `MongoDB` `Docker` `Kubernetes` `Cloud` `DevOps`
 
